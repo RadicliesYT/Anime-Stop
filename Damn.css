@@ -1,0 +1,70 @@
+body{
+    background-color: #27282C;
+}
+
+
+div.titletxt{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.maintxt{
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Helvetica, sans-serif;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+div.logos{
+    width: 100%;
+    height: 48px;
+}
+
+.detective{
+    float: left;
+    padding-left: 25%;
+    width:48px;
+    height:48px;
+}
+
+.smegsy{
+    float: left;
+    padding-left: 44%;
+    width:48px;
+    height:48px;
+}
+
+.links{
+    width: 100%;
+    background-color: #25262a;
+    height: 48px;
+    display: flex;
+    align-items: center;
+}
+
+.home{
+    float: left;
+    font-family: Helvetica, sans-serif;
+    padding-left: 25%;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.catalog{
+    float: right;
+    font-family: Helvetica, sans-serif;
+    padding-left: 20%;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.about{
+    float: right;
+    font-family: Helvetica, sans-serif;
+    padding-left: 20%;
+    text-decoration: none;
+    color: #FFFFFF;
+}
