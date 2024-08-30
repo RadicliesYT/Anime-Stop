@@ -1,0 +1,35 @@
+div.titletxt{
+    height: 150px;
+}
+
+.maintxt{
+    font-size: 100px;
+    padding-left: 45px;
+}
+.detective{
+    height: 100px;
+    width: 100px;
+    padding-left: 140px;
+}
+
+.smegsy{
+    height: 100px;
+    width: 100px;
+    padding-left: 590px;
+}
+
+.links{
+    height: 125px;
+}
+
+.home{
+    font-size: 50px;
+    padding-left: 125px;
+}
+.catalog{
+    font-size: 50px;
+}
+
+.about{
+    font-size: 50px;
+}
