@@ -118,6 +118,25 @@ h1{
     display: inline-block;
 }
 
+.Popup1 img:hover{
+    transform: scale(1.1); 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+}
+
+.Popup1{
+    width: 160px;
+    height: 90px;
+}
+
+.Flash{
+    height: 90px;
+    width: 160px;
+}
+
+.fullPopup1{
+    width: fit-content;
+    height: fit-content;
+}
 @media only screen and (max-width: 600px) {
     div.titletxt{
         height: 150px;
