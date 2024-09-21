@@ -122,42 +122,58 @@ h1{
     div.titletxt{
         height: 150px;
         white-space: normal;
-        width: 600px;
+        width: 100%;
     }
 
     .maintxt{
-        font-size: 75px;
-        padding-left: 45px;
+        font-size: 65px;
+        padding-left: 15px;
     }
     .detective{
         height: 100px;
         width: 100px;
-        padding-left: 140px;
+        padding-left: 27px;
     }
 
     .smegsy{
         height: 100px;
         width: 100px;
-        padding-left:  0px;
+        padding-left: 160px;
     }
 
     .links{
-        height: 125px;
+        width: 100%;
+        height: 70px;
     }
 
     .home{
-        font-size: 50px;
-        padding-left: 125px;
+        font-size: 35px;
+        padding-left: 30px;
     }
     .catalog{
-        font-size: 50px;
+        font-size: 35px;
+        padding-left: 20px;
     }
 
     .about{
-        font-size: 50px;
+        font-size: 35px;
+        padding-left: 20px;
     }
 
     div.logos{
         height: 100px;
+        width: 100%;
+    }
+
+    .firstboi{
+        margin-top: 0px;
+    }
+
+    .moretxt{
+        padding-left: 20px;
+    }
+
+    .whyustxt{
+        padding-left: 130px;
     }
   }
